@@ -1,5 +1,3 @@
-# 2u-dl-course-material
-
 # Session 4
 
 ### Getting Set up
