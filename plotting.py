@@ -7,7 +7,7 @@ class RewardTracker:
   def __init__(self):
     self.episode_rewards = []
 
-  def plot_total_rewards(self):
+  def plot(self):
     plt.figure(2)
     plt.clf()
     rewards_t = torch.tensor(self.episode_rewards, dtype=torch.float)
